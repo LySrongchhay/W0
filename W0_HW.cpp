@@ -78,7 +78,7 @@ int main(){
     delete_(a,4,n);
 
     // delete_(a,-1,n);
-    
+    // delete_(a,100,n);
     
     for(int i = 0; i < n; i++){
         cout<<"Value "<<i<<": "<<a[i]<<endl;
